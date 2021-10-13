@@ -1,0 +1,7 @@
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\bin\Release\Projekt Pepeja.exe.config
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\bin\Release\Projekt Pepeja.exe
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\bin\Release\Projekt Pepeja.pdb
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\obj\Release\Projekt Pepeja.csproj.AssemblyReference.cache
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\obj\Release\Projekt Pepeja.csproj.CoreCompileInputs.cache
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\obj\Release\Projekt Pepeja.exe
+D:\Schulstuff\C#\Projekt Pepeja\Projekt Pepeja\obj\Release\Projekt Pepeja.pdb
