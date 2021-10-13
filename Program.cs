@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +20,13 @@ namespace Projekt_Pepeja
             [STAThread]
         static void Main(string[] args)
         {
+            Console.Title = "Brush";
+            Console.WindowHeight = 7;
+            Console.WindowWidth = 40;
+            Console.WriteLine("Current Controlls:");
+            Console.WriteLine("D: Change Brush Size");
+            Console.WriteLine("strg+alt+backspace:Exit Application");
+            Console.WriteLine("Happy Creating! :)");
            while(isrunning)
             {
                 //Checking Mouse Position, scuffed I know ;)
